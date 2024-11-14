@@ -47,18 +47,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    // let lastTapTime = 0;
-    // function handleDoubleTap(event) {
-    //     const currentTime = new Date().getTime();
-    //     const tapInterval = currentTime - lastTapTime;
-    //
-    //     if (tapInterval < 300 && tapInterval > 0) {
-    //         stickToMouse(event);
-    //     }
-    //
-    //     lastTapTime = currentTime;
-    // }
-
     document.addEventListener('mousemove', moveElement);
     document.addEventListener('touchmove', moveElement);
 
@@ -85,7 +73,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
-    // Не робит(((
     document.addEventListener('touchstart', function (event) {
         if (event.touches.length === 2 && draggedElement) {
             draggedElement.style.top = originalPosition.top;
