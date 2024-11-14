@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     const targets = document.querySelectorAll('.target');
-    let draggedElement = null; // элемент, который перемещаем
+    let draggedElement = null;
     let offsetX = 0, offsetY = 0;
-    let isStuckToMouse = false; // приклеен ли элемент
+    let isStuckToMouse = false;
     let originalPosition = { top: 0, left: 0 };
 
     targets.forEach(target => {
