@@ -3,7 +3,7 @@ https://kxrxmiq.github.io/labki/
 # CV
 ## Личная информация
 
-|![](https://github.com/kxrxmiq/labki/blob/main/Я%201.jpg)|◦ ФИО: Новиков Кирилл Александрович <br> ◦ Дата рождения: 01.04.2005 <br> ◦ Группа: 210901 <br> ◦ GitHub: [kxrxmiq](https://kxrxmiq.github.io/labki/ "Перейти по ссылке") <br> ◦ Gmail: qwerty1122k@gmail.com <br> ◦ Deploy: [https://kxrxmiq.github.io/labki/]([https://kxrmiq.github.io/labki/](https://kxrxmiq.github.io/labki/) "Перейти по ссылке")|
+|![](https://github.com/kxrxmiq/labki/blob/main/Я%201.jpg)|◦ ФИО: Новиков Кирилл Александрович <br> ◦ Дата рождения: 01.04.2005 <br> ◦ Группа: 210901 <br> ◦ GitHub: [kxrxmiq](https://kxrxmiq.github.io/labki/ "Перейти по ссылке") <br> ◦ Gmail: qwerty1122k@gmail.com <br> ◦ Deploy: [https://kxrxmiq.github.io/labki/](https://kxrxmiq.github.io/labki/ "Перейти по ссылке")|
 |:---|:---|
 
 ## О себе
